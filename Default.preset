@@ -130,7 +130,7 @@ HideShutdownFromLockScreen      # ShowShutdownOnLockScreen
 DisableLockScreenBlur           # EnableLockScreenBlur
 # DisableAeroShake              # EnableAeroShake
 DisableAccessibilityKeys        # EnableAccessibilityKeys
-ShowTaskManagerDetails          # HideTaskManagerDetails
+HideTaskManagerDetails          # ShowTaskManagerDetails
 ShowFileOperationsDetails       # HideFileOperationsDetails
 # EnableFileDeleteConfirm       # DisableFileDeleteConfirm
 HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
@@ -138,7 +138,7 @@ HideTaskView                    # ShowTaskView
 ShowLargeTaskbarIcons           # ShowSmallTaskbarIcons 
 SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
-ShowTrayIcons                   # HideTrayIcons
+HideTrayIcons                   # ShowTrayIcons
 ShowBluetoothTrayIcon           # HideBluetoothTrayIcon
 # HideMeetNowTrayIcon           # ShowMeetNowTrayIcon
 # ShowSecondsInTaskbar          # HideSecondsFromTaskbar
