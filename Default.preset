@@ -136,7 +136,7 @@ ShowFileOperationsDetails       # HideFileOperationsDetails
 HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
 HideTaskView                    # ShowTaskView
 ShowLargeTaskbarIcons           # ShowSmallTaskbarIcons 
-SetTaskbarCombineNever          # SetTaskbarCombineWhenFull        # SetTaskbarCombineAlways
+SetTaskbarCombineAlways         # SetTaskbarCombineWhenFull        # SetTaskbarCombineNever
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 HideTrayIcons                   # ShowTrayIcons
 ShowBluetoothTrayIcon           # HideBluetoothTrayIcon
